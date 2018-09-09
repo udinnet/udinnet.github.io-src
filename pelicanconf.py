@@ -6,6 +6,8 @@ AUTHOR = u'Uditha Bandara Wijerathna'
 SITENAME = u"Uditha's Notes"
 SITEURL = ''
 
+THEME = "/home/uditha/Work/uditha.net.themes/elegant"
+
 PATH = 'content'
 
 TIMEZONE = 'Asia/Singapore'
